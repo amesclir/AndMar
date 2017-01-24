@@ -1,0 +1,1916 @@
+>Achillea_millefoliumAY603186
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa ayaactgagc gtcgagtgga
+ttaagcattt gtttgatcct ctcgatgctt tgtcgatgtg catttacttg tgttcttttt
+tggacctggt gaatgtgtca ttgacgcaat aacaaccccc ggcacaatgt gtgccaagga
+aaactaaact tgagaaggct tgtttcatgt tgccccgttc gcggtgcgct catggaatgt
+ggcttctttt taattacaaa cgactctcgg caacggatat ctcggctcac gcatcgatga
+agaacgtagc aaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagttt
+ttgaacgcaa gttgcgcccg aagccttttg gccgagggca cgtctgcctg ggcgtcacgc
+atcgcgtcgc ccccaacaaa tatctgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataagag tcccttcgat ggacacacga actagtggtg gtcgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc ttcaaatacc ccaacgcgtt
+gtcttaggat gacgcttcga ccg
+>Anacyclus_clavatusAJ748762
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gttgagtgga
+ttaaggattt cttgatccac tcgatgctct gtcgatgcgc atttacttgt gttctacgga
+gcttggtgga tgtgtcattg acgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttga gaatgcttgt ttcatgttgc cccgttcgcg gtgtgctcat gggatctggc
+ttctttataa tta
+>Cota_macroglossaFM957787
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacatggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggaygtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natctcgtcr
+cccccaacaa atctctgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaataaga gtcccttcga tggacacacg aacwactggt ggatgtaaaa accctygktc
+tttgttctgt gttagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Cota_mazandaranicaFM957741
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtggat
+taagcacttg tttgatcctc tcgatgcttt gtcgatgagc atttacttgt gttcttytgg
+acatggtgaa tgtgtckttg acgcaataac acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtc ttatgatgcc ccgttcgcgg tgtgctcatg ggacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctttgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataagagt cccttcgatg gacgcacgaa caagtggtgg tcgtaaaaac cctcgttttt
+gttctgtgtt agtcgcaagg aaaaactctt caaatacccc aatgtgttgt cttcggatga
+cgcttcgacc
+>Anthemis_aaronsohniiFM957655
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaac aaccgagcgt cgagtgaacc
+aaggtttgtt tgattgcact cgatgctttg ccgatgtgca tktgcttttg tcctttkggt
+cacggtgaat gtgtcatggg cgcaataaca aaccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaatt cattgttggg ggcggatatk ggtctcccgt gctcatggtg tggttggcca
+aaataagagt cccttcgatg gatgcacgaa caagtggtgg tcgtaaaaac cctcgttctt
+tgttttgtgt tagtcgcaag graaaactct ttaataaccc aatgtgttgt cttctgatga
+cgcttcgacc
+>Anthemis_abrotanifoliaFM957656
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgwtg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttmta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg trtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcatatga
+cgacgcttcg acc
+>Anthemis_abylaeaFM957764
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgctcgcc
+cccaacaaat tactgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gatgcacgaa ctagtggtgg atctaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gataaactct ttgaataccc caatgtgttg tcttctgatg
+acgcttcgac c
+>Anthemis_aciphyllaFM957785
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_aciphyllaFM957767
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttt
+ggacatggtg aatgcgtcat tggcgcaata accaaccccg gcacaatgtg tgccaaggaa
+aactaaactt aagaaggctt gttttatgtt gccccgttcg cggtgtgctc atgagacgtg
+gcttctttat aannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatcgcgtc
+gcccccaaca aatctttgtt gggggcggat attggtctcc cgtgctcatg gtgtggttgg
+ccaaaatagg agtcccttcg atggacgcac gaacaagtgg tggtcgtaaa aaccctcgtt
+ctttgttctg tgctagtcgc aaggaaaagc tctttcaata ccccaatgtg ttgtcatatg
+acgacgcttc gacc
+>Anthemis_aciphyllaFM957715
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca ttgacctttg ttcttttgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctttgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt tccttcgatg gatgcacgaa caagtggtgg tcgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct tgaaaaccct aatgtgttgt cttttgatga
+cgcttcgacc
+>Anthemis_aetnensisFM957659
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa caatcgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttcta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_alpestrisAJ312786
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa gaatgagcgt tcgcgtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttcta atta
+>Anthemis_alpestrisAJ312815
+atcgctcgcc cccaacaaat ctttgttggg ggcggatatt ggtctcccgt gctcatggtg
+tggttggcca aaataggagt cccttcgatg gacgcacgaa caagtggtgg tcgtaaaaac
+cctcgttctt tgttctgtgc tagtcgcaag gaaaagctct ttcaataccc caatgtgttg
+tcttatgacg acgcttcgac c
+>Anthemis_ammanthus_subsp._ammanthusAJ312800
+tcgaaccctg caaagcagaa cgacctgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctctg tctgatatgc atttgctttt gttcttttgg
+acatggtgaa tgtgtcatcg gcgcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc tccgtttgcg gtttgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_ammanthus_subsp._ammanthusAJ312829
+atcgtgtcgc ccccagcaaa ccattgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tccctttgat ggacacacga actagtggtg gatgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt
+gtcttctgat gacgcttcga cc
+>Anthemis_ammophilaFM957716
+tcgaaccctg caaaagcaga acgacccgtg aacacgtaaa acaaccgagc gtcgagtgaa
+ttaaggtttg tttgatacac tcgatgctct gtcgatgtgc atttactttt gttcttttgg
+acacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaag tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tttaataacc caatgtgttg tcttttgatg
+acgcttcgac c
+>Anthemis_anthemiformisFM957717
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaactgagc gtcragtgaa
+ccaaggtttg cttgatacac tcgatgcttt gtcgatgtkc atttactttt gttcttttgg
+acatggtgaa tgtgtyattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tctttgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttctgtg ctagtcgcaa ggaaaagctc tttcaatacc ccaatgtgtt gtcttatgac
+gacgcttcga cc
+>Anthemis_arenicolaFM957689
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca ttgacctatg ttcttttgga
+ctaggtgaat gtgtcattga cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgtggcc ccgttcgcgg ygtgctsmtg akacgwggyt
+kctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctttgttggg ggcggatatt ggtctcccgt gctsrtggtg tggttggcca
+aaataggagt cccwtcgatg gacgcacgaa ctagtggtgg atgtcaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct ttgaataacc cagtgcgttg tcttatgatg
+acgcttcgac c
+>Anthemis_arvensis_subsp._incrassataAJ312777
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgaa
+ttaaggaatg tttgattaca ctcgatgctc tgtcgatgtg cattcacttt tgttcttttg
+gacatggtga atgtgtcgtt ggcgcaataa caaaccccgg cacaatgtgt gccaaggaaa
+attaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata atta
+>Anthemis_arvensis_subsp._incrassataAJ312806
+atcgcgtcgc cccctacaaa tcattgtttg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaataactc tttgaataac ccaacgcgtt
+gtcttttgac gacgcttcga cc
+>Anthemis_arvensis_subsp._sphacelataFM957661
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgaa
+ttaaggaatg tttgattaca ctcgatgctc tgtcgatgtg cattcacttt tgttcttttg
+gacatggtga atgtgtcgtt ggcgcaataa caaaccccgg cacaatgtgt gccaaggaaa
+aytaaactta agaaggcttg ttttatgttg ccccrttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+ccccctacaa atcattgttt ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaataact ctttgaataa cccaacgcgt tgtcttttga
+cgacgcttcg acc
+>Anthemis_atropatanaFM957718
+tcgaaccctg caaagcagaa cgacccgtga acrcgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgatacact cgatgctttg tcgatgggca tttgcttttg tccttttggt
+cacggtgaat gtgtcattgg cgcaataaca aaccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agaygtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaatt cattgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa caagtggtgg tcgtaaaaac cctcgttctt
+tgttttgtgt tagtcgcaag gaaaaactct ttaataaccc aatgtgttgt cttctgatga
+cgcttcgacc
+>Anthemis_auriculataFM957662
+tcgaaccctg caaagcagaa cgacccgyga acaygtaaaa acaaccgagc gtcgagtgaa
+ttaaggaatg tttgatacac tcgatgctct gtcgatgtgc attcactttt gttcttttgg
+acatggtgaa tgtgtcgttg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctacaaa tcattgtttg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaataactc tttgaatacc ccaatgtgtt gtcttatgac
+gacgcttcga cc
+>Anthemis_austroiranicaAJ312798
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_austroiranicaAJ312827
+atcgcgtcgc cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg
+tgtggttggc caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa
+accctcgttc tttgttttgt gttggtcgca aaaactcttt aataacccaa tgtgttgtct
+tttgatgacg cttcgacc
+>Anthemis_bornmuelleriFM957664
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgattgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttgcttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat cattgttggg ggcggatata ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa ctagtggtgg atgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct ttgaayaccc ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_bornmuelleriFM957784
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgattgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttgcttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat cattgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa ctagtggtgg atgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaatmactct ttgaataccc ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_bourgaeiFM957768
+cgagtgaatt aagggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg
+ttctttttga catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg
+ccaaggaaaa ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat
+gagacgtggc ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+atcgcgtcgc ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggatgcacga actagtggtg gatctaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggataaactc tttgaatacc ccaatgtgtt
+gtcttctgat gacgcttcga cc
+>Anthemis_boveanaFM957665
+tcgaaccctg caaagcagaa cgacccgcga acaygtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttactcttg ttctttttga
+catggtgaat gtttcatagg cggcaataac aaaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt cttgtgttgc cccgttcgcg gtgtgctcat gagacgtggy
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa atattgttgg gggcggatat aggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttsgat ggacgcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg tcagtcgcaa ggaaacactc tttgaatacc ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_brachystephanaFM957666
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gttggtcgca aggaaaaact ctttaataac ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_breviradiataFM957720
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaat caacggagcg tcgagtggat
+taagcacttg tttgatcccc ttgatgcttt gccgatgcgc atttacttgt tcttttggac
+atagtgaatg tgtcattggc gccttaacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcaccc
+ccaacaaatc tttgttgggg gcggataatg gtctcccgtg ctcatggcgt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgttcttt
+gttctgtgtt agtcgcaagg aaaaactctt cgaatacccc aatgtgttgt ctttatgatg
+acgcttcgac c
+>Anthemis_bushehricaFM957721
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gttggtcgca aggaaaaact ctttaataac ccaatgtgtt gtcttctgat
+gaygcttcga cc
+>Archanthemis_calcareaFM957769
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaatcaagc gtctagtgga
+gtaagcactt gtttattcct cttgatgctt tgtcgatgtg catttacttg tgctcttttg
+cacatggtga atgtgtcatt ggcgcaataa caacccccgg cacaacgtgt gccaaggaaa
+acaaaacttg agaaggcttg tttcatgttg ccccgttcgc ggtgtgctca tgggatgtgg
+cttcttttta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctatgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttttg atggacgcac gaactagtgg tggtcgtaaa aaccctcgtt
+ctttgttctg tgttagtcgc aaggaaaaac tcttcaaata ccccaatgtg ttgtcttagg
+atgacgcttc gacc
+>Anthemis_calcarea_var._discoideaFM957667
+tcgaaccctg caaagcagaa cgacctgtga acacgtaaaa acaatcaagc gtctagtgga
+gtaagcactt gtttattcct cttgatgctt tgtcgatgtg catttacttg tkccyctttt
+tcacatggtg aatgtgtcat tggcgcaata acaacccccg gcacaacgtg tgccaaggaa
+aacaaaactt gagaaggctt gtttcatgtt gccccgttcg cggtgtgctc atgggatgtg
+gcttcttttt aannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatsgcktg
+gcccccamca awtywakgtg gggggcggat attggtctcc cgtgctcatg gtgtggttgg
+ccaaaatagg agtccctttt gatggacgca cgaastagtg gtggtcgtaa aaaccctcgt
+tctttgttct gtgttagtcg caaggaaaaa ctcttcaaat accccaatgt gttgtcttag
+gatgacgttt cgacc
+>Anthemis_candidissimaFM957770
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttacctttg ttcttttgga
+cttggtgaat gtgtcattgg caaaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt tcatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tagtgctggc
+cccaacaaat ctttgttggg ggcggatatt ggtctcccgt gctactggtg tggttggcca
+aaataggaat cccttcgatg gacgcacgaa ctagtggtgg aagtaaaaaa ccctcgttct
+ttgttctgcg tctctcgcaa ggctctttga atacccaatg tgttgtcttt tgatgacgct
+tagaacc
+>Anthemis_candidissimaFM957690
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttacctttg ttcttttgga
+cttggtgcat gtgtcattgg caaaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt tcatgttgcc ccgttcgcgg tgtgctccat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atagtgctgg
+ccccaacaaa tctttgttgg gggcggatat tggtctcccg tgctactggt gtggttggcc
+aaaataggaa tcccttcgat ggacgcacga actagtggtg gaagtaaaaa accctcgttc
+tttgttctgc gtctctcgca aggctctttg aatacccaat gtgttgtctt ttgatgacgc
+ttagaacc
+>Anthemis_chiaAJ312785
+tcgaaccctg caaagcagaa cgacccgtga acgcgtaaaa caaccaagcg tcgagtggat
+taaacacctg tttggtcctc tcgatgcttt gccgatgtgc atttgcttgt gttcttttgt
+acatggtgaa tgtgtcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttatgatgc cccgttcgcg gtgagctcat gagacgtggc
+ttctttataa tta
+>Anthemis_chiaAJ312814
+atcgcgtcgc ccccaacata tctttgttgg gggcggatat tggtggcccg tgcccatggt
+gtggttggcc aaaataagag tcccttcgat ggatgcacga actagtggtg gtcgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgtaa ggaaaaactc tttaaatacc ccaatgcgtt
+gtcttttgat gacgtttcga cc
+>Anthemis_confusaFM957670
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtatcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgg ttttgtgtcg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+ccccyaacaa attactgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatctaaaa accctcgttc
+tttgtttcgt gttagtcgca aggataaact ctttgaatac cccaatgtgt tgtcttctga
+tgacgcttcg acc
+>Anthemis_cotulaAJ312794
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgattgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttgcttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataat ta
+>Anthemis_cotulaAJ312823
+atcgcgtcgc ccccaacaaa tcattgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa
+ccctcgttct ttgttctgtg tcagtcgcaa ggaaaaactc tttgaatacc cccaatgtgt
+tatcttttga tgacgcttcg acc
+>Anthemis_cretica_subsp._anatolicaFM957723
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcrataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgwtc
+wttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcs acc
+>Anthemis_cretica_subsp._argaeaFM957707
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caactgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgtgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gcttgtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcatatga
+cgacgcttcg acc
+>Anthemis_carpaticaAJ312787
+tcgaactctg caaagcagaa cgacccgtga acatgtaaaa caatcgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttcta atta
+>Anthemis_carpaticaAJ312816
+atcgcgtcgc ccccaacaaa tctttgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa
+ccctcgttct ttgttctgtg ctagtcgcaa ggaaaagctc tttcaatacc ccaatgtgtt
+gtcttatgac gacgcttcga cc
+>Anthemis_cupanianaFM957778
+tcgaaccctg caaagcagaa cgacccgtga acaygtaaaa caaycgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatrtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa wtctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacccttcg acc
+>Anthemis_cupanianaFM957780
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa caatcgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatrtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttcta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_cretica_subsp._gerardianaFM957673
+tcgaacccag caaagcagaa cgacccgtga acatgtaaaa caatcgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttcta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcrtgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_cretica_subsp._sibthorpiiFM957681
+aacccngcaa agcagaacga cccgtgaaca cgtaaaacaa ccgagcgtcg agtgaattaa
+ggtttgtttg attgcactcg atgctctgtc cgatgtgcat ttacttttgt tcttttggac
+atggtgaatg cgtcattggc gcaataacca accccggcac aatgtgtgcc aaggaaaact
+aaacttaaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gacgtggctt
+ctttgtaann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcgccc
+ccaacaaatc tttgttgggg gcggatattg gtctcccgtg ctcatggtgt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtggt cgtaaaaacc ctcgttcttt
+gttctgtgct agtcgcaagg aaaagctctt tcaatacccc aatgtgttgt cttatgacga
+cgcttcgacc
+>Anthemis_cretica_subsp._spruneriFM957756
+tcgaaccctg caaagcagaa cgacccgtga acaygtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacytt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgytg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttmtgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_cuneataFM957671
+tcgaaccctg caaagcagaa cgacccgtga acaygtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttrta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_cupanianaFM957765
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatctaaaaa ccctcgttct
+ttgtttcgtg ttagtcgcaa ggataarctc tctgaatacc cccaatgtgt tgtcttctga
+tgacgcttcg acc
+>Anthemis_cupanianaFM957777
+tcgaaccctg caaagcagaa cgacccgcga acaygtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtgtcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcgtgt tttgtgtygc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ttwctgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcaat ggacgcacaa actattggtg gatctaaaaa ccctcgttct
+ttgtttcgtg ttagtcgcaa ggataaactc tctgaatacc cccaatgtgt tgtcttctaa
+taacccttca acc
+>Anthemis_cyrenaicaFM957713
+acccagsaaa gccgaacgac ccgcgaacac gtwaatcaac agagcmtcga gtgaattaag
+gaatgtttga tacactcgat gcttcgtcga tgtgcmtttg cttttgttct ttttggacat
+ggtgaatgtt tcataggcgg caataaccaa ccccggcaca atgtgtgcca aggaaaacta
+aacataagaa ggcttgtttt gtgttgcccc gttcgcggtg tgctcatgag acgtggcttc
+tttataannn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnatc gcgtcgcccc
+caacaaatka ttgtkggggg cggatatwgg tctcccgtgc tcatggtgtg gttggccaaa
+ataggagtcc cttcgatgga cacacgaact agtggtggat gtaaaaaccc tcgttsttkg
+ttctgtgtcg gtcgcaagga aaaactcttt gaatacccca atgtgtkgtc ttckgatgac
+gctycgacc
+>Anthemis_davisiiFM957725
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgatacact cgatgctttg tcgatgtgca tttgcttttg tccttttgga
+cacggtgaat gtgtcattgg cgcaataaca aaccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg atacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnncgcc
+cccaacaatt cattgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa caagtggtgg tcgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct ttaataaccc matgtgttgt cttctgatga
+cgcttcgacc
+>Anthemis_deserti-syriaciFM957726
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaat caacggagcg tcgagtggat
+taagcacttg tttgatcccc ttgatgcttt gccgatgcgc atttacttgt tcttttggac
+atagtgaatg tgtcattggc gccttaacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcgccc
+ccaacaaatc tttgttgggg gcggataatg gtctcccgtg ctcatggygt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgttcttt
+gttctgtgtt agtcgcaagg aaaaactctt cgaatacccc aatgtgttgt ctttatgatg
+acgcttcgac c
+>Anthemis_edumeaFM957692
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaat caacggagcg tcgagtggat
+taagcacttg tttgatcccc ttgatgcttt gccgatgcgc atttacttgt tcttttggac
+atagtgaatg tgtcattggc gccttaacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcgccc
+ccaacaaatc tttgttgggg gcggataatg gtctcccgtg ctcatggcgt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgttcttt
+gttctgtgtt agtcgcaagg aaaaactctt cgaatacccc aatgtgttgt ctttatgatg
+acgcttcgac c
+>Anthemis_filicaulisFM957728
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctccg ttgatgcgca tttacttttg ttcttttgga
+cagggtgaat gtttcattgg cgaactaaca aactccggca caatgcgtgc caaggaaaac
+taaacttaag aaggcttgtt ttgtgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaatt cattgtttgg ggcggatatt ggtttcccgt gctcatggtg tggttggcca
+aaataggagt cccttygatg gacgcatgaa ctagtggtgg atgtaaaaac cctcgttctt
+tgttctgcgt tagtcgcgag gaaaaactct ttgaataccc caatgtgttg tcttatgatg
+acgcttcgac c
+>Anthemis_fimbriataFM957729
+gatacactcg atgctttgtc gatgtgcatt gacctatgtt cttttggact aggtgaatgt
+gtcattgacg caataacaac ccccggcacm atgtgtgcca aggaaaacta aacttaagaa
+ggcttgtttt atgtggcccc gttcgcggtg tgctcatgas acgtggcttc tthataannn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnatc gcgtcgcccc caacaaatct
+ttgttggggg cggatattgg tctcccgtgc tcatggtgtg gttggccaaa ataggagtcc
+cttcgatgga cgcacgaact agtggtggat gtcaaaaccc tcgttctttg ttctgtgtta
+gtcgcaagga aaaactcttt gaataaccca gtgcgttgtc ttatgatgac gcttcgacc
+>Anthemis_freitagiiFM957730
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcra tggacgcacg aacaaktggt ggtcgtaaaa accctcgttc
+tttgttttgt gttaktcgca aggaaaaact ctttaataac ccaatgtgtt gtcttctgat
+gacgcttcga cc
+>Archanthemis_fruticulosaFM957772
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+gtaagcactt gtttattcct cttgatgctt tgtcgatgtt catttacttg tgttcttttg
+gacagggtga atgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+acaaaacttg agaaggcttg tttcatgttg ccccgttygc ggtgtgctca tgggatgtgg
+cttcttttta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctctgttg ggggcggata ttggtctccc gtgctcaygg tgtggttggc
+caaaatagga gtccctttga tggacgcacg aactagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gttagtcgta aggaaaaact cttcaaatac cctaatgtgt tgtcttagga
+tgacgcttcg acc
+>Anthemis_fumariifoliaFM957732
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg ttgagtgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttacctttk tcttwtggac
+taggtgaatg tgtcattggc aaaataacaa cccccggcac aatgtgtgcc aaggaaaact
+aaacttaaga aggcttgttt catgttgccc cgttcgcggt gtgctcacga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcgccc
+ccaacaattc tttgttggga gcggatattg gtctcccgtg ctattggtgt ggttggccaa
+aatatgaatc ccttcgatgg acgaacaaac tagtggtggt cgtaaaaaac cttcgttctt
+tgttctatgt ctctcgcaag gctctttgaa taccccaatg tgttgtcttc tgatgacgct
+tcgacc
+>Anthemis_gayanaAJ312799
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_gayanaAJ312828
+atcgcgtcgc cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg
+tgtggttggc caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa
+accctcgttc tttgttttgt gttggtcgca aggaaaaact ctttaataac ccaatgtgtt
+gtcttttgat gacgcttcga cc
+>Anthemis_gharbensisAJ312778
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gttacatagg cggcataaca aaccccggca caatgcgtgc caaggaaaac
+taaacataag aaggcttgtc ttgtgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataat ta
+>Anthemis_gharbensisAJ312807
+atcgcgtcgc ccccaacaaa atattgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gacttaaaaa
+ccctcgttct ttgttctgtg tcagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt
+gtcttttgat gacgcttcga cc
+>Anthemis_gilanicaFM957693
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccytaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gttggtcgca aggaaaaact ctttaataac ccaatgtgtt gtcttctgat
+gacgcttcga cc
+>Anthemis_glaberrimaFM957733
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gycgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaat tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggaygcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ttastcgcaa ggaaaaactc tttaataacc caatgtgttg tcttctgatg
+acgcttcgac c
+>Anthemis_glareosaFM957696
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttcttttcga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacatggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cctcaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatctaaaaa ccctcgttct
+ttgtttcgtg ttagtcgcaa ggataaactc tttgaatacc ccaatgtgtt gtcttctgat
+gacgcttcga cc
+>Anthemis_hamrinensisFM957735
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gycgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcrcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgtagc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaat tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggaygcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ttastcgcaa ggaaaaactc tttaataacc caatgtgttg tcttctgatg
+acgcttcgay c
+>Anthemis_handel-mazzettiiFM957736
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttacttatg ttcttttgga
+cttgggtgaa tgtatcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tttttgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataagag ttycttygat ggaygcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_haussknechtiiFM957658
+tcgaaccctg caaagcacga acgacccgtg aacacgtaaa acaaccgagc gtcgagtgaa
+ccaaggtttg tttgatacac tcgatgcttt gtcgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaat tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ttagccgcaa ggaaaaactc tttaataacc caatgtgttg tcttctgatg
+acgcttcgac c
+>Anthemis_hebronicaFM957674
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caactgagcg tcgagtgaac
+caaggtttgc ttgatacact cgatgctttg tcgatgtgca tttacttttg ttcttttgga
+catggtgaat gtgtcattgg cgcaataaca aaccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggctagtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ttttgttagg ggcggatatt ggtctcccgt gctcatggcg tggttggcca
+aaataggagt ccctttgatg gacgcacgaa caagtggtgg aagtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct ttgaataccc taatgtgttg tcttttgatg
+acgcttcgac c
+>Anthemis_hirtellaFM957694
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggatgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gttagtcgca aggaaaawct ctttaataac ccaatgtgtt gtcttctgat
+gacgcttcga cc
+>Anthemis_homalolepisFM957695
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaat caacggagcg tcgagtggat
+taagcacttg tttgatcccc ttgatgcttt gccgatgcgc atttacttgt tcttttggac
+atagtgaatg tgtcattggc gccttaacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcrccc
+ccaacaaatc tttgttgggg gcggataatg gtctcccgtg ctcatggcgt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgttcttt
+gttctgtgtt agtcgcaagg aaaaactctt cgaatacccc aatgtgttgt ctttatgatg
+acgcttcgac c
+>Anthemis_hyalinaAJ312779
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca ttgacctttg ttcttttgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agrcgtggct
+tctttctaat ta
+>Anthemis_hyalinaAJ312808
+atcgcgtcgc ccccaacaaa tctttgttgg gggcggatat tggtctcccg tgctcaaggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc ttgaaaaccc taatgtgttg
+tcttctgatg acgcttcgac n
+>Anthemis_hydruntinaFM957675
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgyg catttacttt tgttctwttg
+gacatggtga atgtgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+acyaaactta agaaggcttg ttttatgctg ccccgttcgc ggtgtgctcc atgagacgtg
+gcttctttat aannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatcgcgtc
+gcctccaaca aatctttgtt gggggcggat attggtctcc cgtgctcatg gcgtggttgg
+ccaaaatagg agtcccttcg atggacgcac gaacaagtgg tggtcgtaaa aaccctcgtt
+ctttgttctg tgttattcgc aaggaaaagc tctttcaata ccccaatgtg ttgtcttatg
+acgacgcttc gacc
+>Anthemis_indurataFM957737
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caatcgagcg tcgagtgaat
+taargtttgt ttgatacact cgatgctttg tcgatgtgca tttacttatg ttcttttgga
+cttgggtgaa tgtatcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgcggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tctttgtcgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataagag ttccttcgat ggacgcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tctgaatacc ccaacgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_kandaharicaFM957773
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctaacaa ttcatagttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gttrgtcgca aggaaaaact ctttaataac ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_poecilolepisFM957676
+tcgaaccctg caaagcagaa cgacctgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtrctcatrg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaakct ctttcaatac cccaatgtgt tgtcatatga
+cgacgcttcg acc
+>Anthemis_laconicaFM957697
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcttcatt ggcgcaataa ccaaccccgg cacaatttgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttrta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggatm twggtctccc gtgctcatgg tgtggttggc
+caaaatasga gtcccttcga tggacgcayg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcatatga
+cgacgcttcg acc
+>Anthemis_leptophyllaFM957738
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaat tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggaygcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ttagtcgcaa ggaaagactc tttaataacc caatgtgttg tcttytgatg
+acgcttcgac c
+>Anthemis_leucanthemifoliaFM957739
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caacygagca tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttacttatg ttcttttgga
+cttgggtgaa tgtatcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgatgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tctttgtcgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataagag ttccttcgat ggacgcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg ttagtstcaa ggaaacactc ttcgaatacc ccmacgt
+>Cota_linczevskyiFM957774
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacatggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaataaga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttt
+ttgttctgtg ttagtcgcaa ggaaaaactc ttcaaatacc ccaatgtgtt gtcttcggat
+gacgcttcga cc
+>Anthemis_macedonicaFM957677
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgcg catttacytt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgytg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gttattcgca aggaaaagct ctttcaatac cccaatgtgt tgtctgatga
+cgacgcttcg acc
+>Anthemis_orbelicaAJ312790
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgcg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata atta
+>Anthemis_orbelicaAJ312819
+atcgcgtcgc ccccaacaaa tctttgttgg gggcgcatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaagctc tttcaatacc ccaatgtgtt
+gtcttatgac gacgcttcga cc
+>Anthemis_macrotisAM176761
+tcgaaccctg caaagcagaa cgacccgcga acttgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttacttttg ttctcttgga
+catggtgaat gtgtcattcg cgaaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttctaat tannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatcgcgtc
+gcccccaaca aatcattgtt aggggcggat attggtctcc cgtgcttatg gtgtggktgg
+ccaaaatagg agtcccttcg atggacgcac gaactagtgg tggatgtaaa aaccctcgtc
+tttgtctgtg ttagtcgcaa ggaaaactct ttgaataccc taatgtgttg tctttgatga
+cgcttcgacc
+>Anthemis_maritimaAJ312788
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tygagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_maritimaAJ312817
+atcgcgtcgc ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggatgcacga actagtggtg gatctaaaaa
+ccctcgttct ttgttctgtg tttgtcgcaa ggataaactc tttgaatacc ccaatgtgtt
+gtcttctgct gacgcttcga cc
+>Anthemis_maritimaAJ312789
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_maritimaAJ312818
+atcgcgtcgc ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggatgcacga actagtggtg gatctaaaaa
+ccctcgttct ttgttctgtg tttgtcgcaa ggataaactc tttgaatacc ccaatgtgtt
+gtcttctgat gacgcttcga cc
+>Anthemis_maroccana_subsp._maroccanaFM957678
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gttacatagg cggcataaca aaccccggca caatgcgtgc caaggaaaac
+taaacataag aaggcttgtc ttgtgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaaa tattgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa ctagtggtgg acttaaaaac cctcgttctt
+tgttctgtgt cattcgcaag gaaaaactct ttgaataccc caatgtgttg tcttttgatg
+acgcttcgac c
+>Archanthemis_marschalliana_subsp._pectinataFM957668
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa acaaccgagc attgagtgga
+gtaagcactt gtttattcct cttgatgctt tgtcgatgtg catttacttg tgttcttttg
+gacatggtga atgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+acaaaacttg agaaggcttg tttcatgttg ccccgttcgc ggtgtgctca tgggatgtgg
+cttcttttta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tatggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaatact cttcaatacc ccaatgtgtt gtctcaggat
+aacgcttcga cc
+>Archanthemis_marschalliana_subsp._pectinataFM957698
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa acaaccgagc atcgagtgga
+gtaagcactt gtttattcct cttgatgctt tgtcgatgtg catttacttg tsttcttttg
+gacatggtga atgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+acaaaacttg agaaggcttg tttcatgttg ccccgttcgc ggtgtgctca tgggatgtgg
+cttcttttta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+ccccyaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tatggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact cttcaatacc ccaatgtgtt gtcttaggat
+aacgcttcga cc
+>Anthemis_mauritiana_subsp._faureiFM957679
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcratgtgca tttactctwg ttctttttga
+catggtgaat gtttcatagg cggcaataac aaaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt cttgtgatgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa atrttgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatttaaaaa ccctcgtwct
+ttgttctgtg tcagtcgtaw ggataaactc tttgaatacc ctaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_melampodinaAJ312780
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttacttatg ttcttttgga
+cttgggtgaa tgtatcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgcggc
+ttctttataa tta
+>Anthemis_melampodinaAJ312809
+atcgcgtcgc ccccaacaaa tctttgtcgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataagag ttccttcgat ggacgcacga actagtggtg gatttaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ccaacgtgtt
+gtcttttgat gacgcttcga cc
+>Anthemis_melampodina_subsp._melampodinaFM957691
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttacttatg ttcttttgga
+cttgggtgaa tgtatcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tttttgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataagag ttccttcgat ggacgcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt gtctwttgat
+gacgcttcga cc
+>Anthemis_melanacmeFM957742
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca ttgacctttg ttcttttgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttctaan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctttgttggg ggcggatatt ggtctcccgt gctcaaggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa caagtggtgg tcgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct tgaaaaccct aatgtgttgt cttctgatga
+cgcttcgacc
+>Anthemis_meteoricaFM957699
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgaa
+ttgaggaatg tttgattaca ctcgatgctc tgtcgatgtg cattcacttt tgttcttttg
+gacatggtga atgtgtcgtt ggcgcaataa caaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+ccccctacaa atcattgttt ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact ctttgaatac cccaatgtgt tgtcttatga
+gacgcttcga cs
+>Anthemis_microcephalaFM957744
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgattgaat
+taaggtttgt ttgatacatt cgatgctctg tcgatgtgca tttacttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtc ttatgttgca ccgtttgcgg tttgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat cattgttggg ggcggatatt ggtctccygt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gatgcacgaa ctagtggtgg atgtaaaaac cctcgttctt
+tgttctgtgt ttagtcgtaa ggaaaaactc tttgaatacc ccaatgtgtt gtcttttgac
+gacgcttcga cc
+>Anthemis_microlepisFM957745
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca ttgacctttg ttctttwgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttctaan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctttgttggg ggcggatatt ggkctcccgt gctcaaggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa caagtggtgg tcgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct tgaaaaccct aatgtgttgt cttctgatga
+cgcttcgacc
+>Anthemis_microspermaFM957700
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaat caaccgagcg tcgattgaat
+taaggtttgt ttgatacact cgatgctyyg tcgatgtgca tttrcttttg ttcttttgga
+cmtkgnnaat gtgtcwwtgg ggcaataacc amccccggca caatgtgtgc caaggaaaac
+taaacataag aaggcttgtt ttrtgtygcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat tattgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg gatgcacaaa ctagtggtgg atgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct ttgaataccc cmatgtkttg tyttctgatg
+acgcttcgac c
+>Anthemis_mirheydariFM957746
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa cawttgagcg tcgagtggat
+ttagcacttg yttgatcccc tcgatgcttt gtcgatgtgc atttacttgt tcttctggac
+atggtgaatg tgtcatcgac accataacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttaaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gacgtggctt
+ctttctaann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgwcgctc
+ccaacaaata tttgttgggg gcggatattg gtctcccgtg ctcatggcgt ggttggccaa
+aatatgagtc ccttcgatgg acgcacgaay aagwggtggt cgtcaaaacc ctcgttcttg
+gtttkgtgtt agtcgcaagg aaaagctytw tgaataccct aatgtgttgt ctttcgatga
+cgcttcgacc
+>Anthemis_moghanicaFM957747
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caagggtttg tttgatnnnn tcgatgcttt gtcgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa ggaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn ctcgcgtcgc
+ccccamaatt ctttgktggg ggcgrwttgg tctcccgtgc tcatggtgtg gttggccaaa
+tagagtccct tcgatggacg cacgaacaag tggtggtcgt aaaaaccctc gttctttgtt
+ctgtgttagt cgcaagaaaa actcttgnaa aacccymatg tgttgt
+>Anthemis_muricataFM957788
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggaatgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttcttttgga
+catggtgaat gttacatagg cggcaataac aaaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ttactgtagg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tyccttcgat ggacgcacga actaatggtg gatgtaaaaa ccctcggttc
+tttgttctgt gttaatcgca aggataaact ctttgaatac cccaatgtgt tgtcttctga
+tgacgcttcn acc
+>Anthemis_nabataeaFM957749
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaactgagc gtcgagtgaa
+ccaaggtttg cttgatacac tcgatgcttt gtcgatgtgc atttactttt gttcttttgg
+acatggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tttttgttag gggcggatat tggkctcccg tgctcatggc gtggttggcc
+aaaataggag tccctttgat ggacgcacga acaagtggtg gaagtaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ctaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_odontostephanaAJ312797
+tcgaaccctg caaagcagaa cgacccgtga acgcgtaaaa caaccgagcg tcgagtggaa
+tgagcacttg tttgatcccc tcgatgctct gtcgatgtgc atttacttgt gttcttttgg
+acatggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttat tttttgttgc cccgttcgcg gtgtgctcat gagatgtggc
+ttctttataa tta
+>Anthemis_odontostephanaAJ312826
+atcgcgtcgc ccccaacaaa ctttgttgtg ggcggatatt ggtctcccgt gctcatggtg
+tggttggcca aaataggagt tccttcgatt gacgcacgaa ctagtggtgg aagtaaaaac
+cctcgttctt tgttctgtgt tagtcgaaag gaaaaactct ttgaataccc caatgtgttg
+tcttcggatg atgcttcgac c
+>Anthemis_orientalisFM957669
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcgg atggacgcac gaacaagtgg tggtcgtaaa aaccctcgtt
+ctttgttctg tgctagtcgc aaggaaaagc tctttcaata ccccaatgtg ttgtcatatg
+acgacgcttc gacc
+>Anthemis_parnesiaFM957775
+tcgaaccctg cgaagcagaa cgacccgtga acacgtaaaa caatcgagcg tcgagtgaat
+taaggtttgt ttgatwgcac ttgatgcttt gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatrtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaragct ctttcgatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_paucilobaFM957701
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgygtcatt ggcgyaataa ccaatcccgg cacaatgtgt gccaaggaaa
+actaaactta araaggcttg ttttatgtkg ccccgtycgc ggtgtgctcw traaacktgg
+cttctttgta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggwygtaaaa accctcgttc
+tttgttctgt gytagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_paucilobaFM957750
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atatttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtyccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_pedunculataAJ312791
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_pedunculataAJ312820
+atcgcgtcgc ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggatgcacga actagtggtg gatctaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggataaactc tttgaatacc ccaatgtgtt
+gtcttctgat gacgcttcga cc
+>Anthemis_pedunculataAJ312792
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_pedunculataAJ312821
+atcgcgtcgc ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggatgcacga actagtggtg gatctaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggataaactc tttgaatacc ccaatgtgtt
+gtcttctgat gacgcttcga cc
+>Anthemis_peregrinaAJ312781
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg ttgatggcgc atttactttt gttcttttgg
+acagggtgaa tgtttcattg gcgacataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgcgcat gagacgtggc
+ttctttataa tta
+>Anthemis_peregrinaAJ312810
+atcgcgtcgc ccccaacaaa tcattgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gatttaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt
+gtcttatgat gacgcttcga cc
+>Anthemis_persicaFM957783
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+tmaggtttgt ttgatacact cgatgctttg tcgatgtgca ttgacctttg ttctkktgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agatgtggct
+tctttctaan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+ccccacaatt atttgtaggg ggcggatatt ggtctcccgt gctcatggcg tggttggccg
+aaataggagt cccttcgatg gacgcacaaa ctagtggtgg tcgtaaaaac cctcgttctt
+tgttttgtgc cgacatttgc aaggaaacac tcttttcttt acctaatgcg ttgtcttagg
+acgatgcttc gacc
+>Anthemis_plutoniaAJ312793
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata atta
+>Anthemis_plutoniaAJ312822
+atcgcgtcgc ccccaacaaa tctttgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa
+ccctcgttct ttgttmtttt ctagtcgcaa ggaaaagctc tttcaatacc ccaatgtgtt
+gtcttatgac gacgcttcga cc
+>Anthemis_pseudocotulaAJ312795
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttacttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataat ta
+>Anthemis_pseudocotulaAJ312824
+atcgcgtcgc ctccaacaaa tcattgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt
+gtcttttgat gacgcttcga cc
+>Anthemis_punctataFM957779
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggatgcacga actagtggtg gatctaaaaa ccctcgttct
+ttgttctgtg tttgtcgcaa ggataaactc tttgaatacc ccaatgtgtt gtcttctgat
+gacgcttcga cc
+>Anthemis_rascheyanaFM957702
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atakagtcgc
+ccccaacaat tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ttagtcgcaa ggaaaaactc tttaataacc caatgtgttg tcttctgatg
+acgcttcgac c
+>Anthemis_retusaFM957703
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcratgctct gtccgatgtg catttacttt tgttctttkg
+gacatggtga atgcgtcatk ggcgcaataa ccaaccccgg cacaatgtgt gccarggaaa
+actaaactta ararggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact ctttgawtac cccmwrtgtg ttgtytt
+>Anthemis_rhodocentraFM957704
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gccgatgtgc atttgctttt gtccttttgg
+tcacggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctaacaa ttcattgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gttggtcgca aggaaaaact ctttaataac ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_rigidaAJ312782
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tctagtgaat
+taaggtttgt ttgatacact cgatgctccg ttgatggcgc atttactttt gttcttttgg
+acagggtgaa tgtttcattg gcgacataac aaaccccggc acaatgcgtg ccaaggaaaa
+ctatacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgcccat gagacgtggc
+ttctttataa tta
+>Anthemis_rigidaAJ312811
+atcgcgtcgc ccccaacaaa tcattgttgg ggtcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gatttaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc tatgaatacc ccaatgtgtt
+gtcttatgat gacgcttcga cc
+>Anthemis_rosea_subsp._carneaFM957705
+tcgaaccctg cgaagcagaa cgacccgtga acatgtaaaa acaactgagc gtcgagtgaa
+ccaaggaacg tttgatgcac tcgatgcttt gtcgatgtgc atttacttgt gttcttttgg
+acatcgtgaa tgtgtcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttag gaaggcttgt tctatgttgc cccgttcgcg gtgtgcgcat gsgacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcrc
+ccccaacraa tctatgtygg ggrcggatak tggtstcccg tgctcatggy gtggttggcc
+aaaataggag tcccttkgat ggacrcacga acaagkggtg gtcgtaaaaa ccctcgtkst
+ttgttytgtg ttagtcrbaa ggaaaaactc tkcgaataga cccaatgtgt cgtcttygga
+ygaygyttcg acc
+>Anthemis_rumelicaFM957752
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgcg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_ruthenicaFM957706
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa acaacygagc gtcgagtgaa
+ttaaggaatg tttgatacac tcgatgctct gtcgatgkgc attcactttt gttcttttgg
+acatggtgaa tgtgtcgttg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctacaaa tcattgtttg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaakaggag tccctwcgat ggacgcacga actagtggtg gatgtaaaaa ccctcgttct
+ttgttctgtg ttartcgcaa ggaaaaactc tttgaatacc ccaatgtgtt gtcttatgac
+sacgcttcga cc
+>Cota_saguramicaFM957786
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ckcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacayggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca trggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+ccccccacaa ttatttgtta ggggcggata ttggtctccc gtgctcatgg cgtggttggc
+cgaaatagga gtcccttcga tggacgcaca aactagtggt ggtcgtaaaa accctcgttc
+tttgttttgt gccgacattt gcaaggaaac actcttttcw twacctaatg cgttgtctta
+ggacgatgct tcgacc
+>Anthemis_samuelssoniiFM957708
+tcgaaccctg caaagcagaa tgacccgcga acacgtaaaa acaactgagc gtcgagtsaa
+ttaaggaatg tttgatacac tcgatgctct gtcgatgkgc attcactttt gttcttttgg
+acayggtgca tgtgtcgttg gcgcrataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaakgstygt tttatgttgc cccgttcgcg gtgygctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+cccctacaaa tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaatargag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa ccctcggttc
+tttgttctgt gttagtcgca aggaaaaact ctttgaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_scariosaFM957709
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caatcgagcg tcgagtggat
+taagcacatg tttgatcccc tcgatgcttt gtcggtgcgc atttacttgt tcttttggac
+atggtgaatg cgtcattggc gccataacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttaaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gacgtggctt
+ctttctaann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcgccc
+ctaacaaatc tttgttgggg gcggatatgg gtctcccgtg ctcatggcgt ggtkggccaa
+aataggagtc cctkcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgtgcttt
+gttctgtgtt agtcgcaagg aaagactcnn ngaataccct gatgcgtggt cttytgatga
+cgcttcgacc
+>Anthemis_schizostephanaFM957753
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaac
+caaggtttgt ttgattgcac tcgatgcttt gtcgatgtgc atttgctttt gtccttttgg
+tcatggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaat tcattgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggaygcacga acaagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ttagtcgcaa ggaaaaactc tttaataacc caatgtgttg tcttttgatg
+acgcttcgac c
+>Anthemis_scopulorumFM957754
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tckagtgaat
+taaggtttgt ttgatacact cgatgctccg ttgatggcgc atttactttt gttcttttgg
+acagggtgaa tgtttcattg gcgacataac aaaccccggc acaatgcgtg ccaaggaaaa
+ctatacttaa gaaggcttgt tttgtgttgc cccgttygcg gtgtgcccat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tcattgttgg ggtcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tatgaatacc ccaatgtgtt gtcttatgat
+gacgcttcga cc
+>Anthemis_scrobicularisFM957755
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa caatcgagca tcgagtggat
+taagcacttg tttsatccac tcgatgcttt gtcgatgtgc atttacttgt tcttttggac
+atggtgaatg tgtcattggc gctataacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctccatg agacgtggct
+tctttctaan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna ataggaggcc
+cccatgtgaa atctttgggg gcggatattg gtttcccgtg cttatggcgt ggttggccaa
+aataggagtt cctttgatgg acgcacgaac aagtggtggt cgtaaaaacc ctcgttcttt
+gttctgtgtt agtcccaaag aaaagctctt tgaatacccc aatgtgttgt cttatgatga
+cgctttaact
+>Anthemis_secundirameaFM957688
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ytctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgtgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+tyctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatctaaaaa ccctcgttct
+ttgtttcgtg ttagtcgcaa ggatatactc tttgaatacc ccaatgtgtt gtcttctgat
+gacgcttcga cc
+>Anthemis_urvilleanaAJ312783
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagca tcgagtgaat
+taaggaatgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac aaaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa tta
+>Anthemis_urvilleanaAJ312812
+atcgcgtcgc ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgcccatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggataaactc tctgaatacc ccaatgtgtt
+gtcttatgat gacgcttcga cc
+>Anthemis_sintenisiiFM957710
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgggcg tcgagtgaat
+taaggtttgt ttgatacact ygatgctttg tcgatgtgca ttgacctttg ttcttttgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttatawn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnntg ggggcggawt gggtctcccg nnnnnnnngg tgtggttggc
+caaaannnna gttctttcga tggacgctcg aactagtggt ggtcgtaaaa accgtcgttc
+tttgttcgtt ctnnntcgca aggaactctt taaatacccc aatgcgtgtc ttttgatgac
+gcttcgacc
+>Anthemis_sp._Vogt_16276FM957789
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgagtgaat
+tgaggtatgt ttgatannnt tgawrsttcg gtgaaggygc attyactttt gttcttttgg
+acakggtgaa tgtgtcrttg gcgacataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttrtgttgc cccgttcgcg gtgtgckcat gacacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tytttgttgg gggcggatat tggtytcccg tgctcatggt gtggttggcc
+aaaataggaa ttccttcgat ggacgcccga acaagtggtg gtygtaaaaa ccctcgttct
+ttgttctgtg yyartcgcaa ggaaaaactc ttg
+>Anthemis_sterilisFM957776
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaataa ccaaycccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt tgtcttatga
+cgacgcttcg acc
+>Anthemis_susianaFM957757
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaat caacggagcg tcgagtggat
+taagcacttg tttgatcccc ttgatgcttt gccgatgcgc atttacttgt tcttttggac
+atagtgaatg tgtcattggc gccttaacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcrccc
+ccaacaaatc tttgttgggg gcggataatg gtctcccgtg ctcatggcgt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgttcttt
+gttctgtgtt agtcgcaagg aaaaactctt cgaatacccc aatgtgttgt ctttatgatg
+acgcttcgac c
+>Cota_talyschensisFM957711
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttatgcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacatggtsa atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natmkmgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaataaga gtcccttyga tggacgcacg aacwagtggt ggtcgtaaaa accctcgttt
+ttgttctgtg ttagtcgcaa ggaaaaactc ttcaaatacc ccaatgtgtt gtcttcggat
+gacgcttcga cc
+>Anthemis_tenuisecta_subsp._tenuisectaFM957682
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gttacatagg cggcataaca aaccccggca caatgcgtgc caaggaaaac
+taaacataag aaggcttgtc ttgtgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaaa tattgttggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgcat ggacgcacga actagtggtg gacttaaaaa ccctcgttct
+ttgttctgtg tcagtcgcaa ggaaaaactc tttgaatacc ccaatgtgtt gtcttttgat
+gacgcttcga cc
+>Anthemis_tigrensisAJ312796
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgattgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttgcttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agatgtggct
+tctttttaat ta
+>Anthemis_tigrensisAJ312825
+atcgcgtcgc cccaacaaat cattgttggg ggcggatatt gctctcccgt gctcatggtg
+tggttggcca aaataggagt ctcttcgatg gacgcacgga actagtggtg gatgtaaaaa
+ccccgttctt tgttctgtgc tagtcgcaag gaaaaactct ttgaataccc ccaatgtgtt
+gtcttttgat gacgcttcga cc
+>Anthemis_tomentellaFM957683
+ctgcaaagca gaacgacccg cgaacacgta aaacaaccga gtgtcgagtg aattaaggtt
+tgtttgatac actcgatgct ccgttgatgc gcatttactt ttgttctttt ggacatggtg
+aatgtttcat cggcgaacta acaaactccg gcacaatgcg tgccaaggaa aactaaactt
+aagaaggctt gttttgtgtt gccccgttcg cggtgtgctc atgagacgtg gcttctttat
+aannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatcgcatc gcccccaaca
+aatcattgtt gggggcggat attggtttcc cgtgctcatg gtgtggttgg ccaaaatagg
+agtcccttcg atggacgctt gaactagtgg tggatgtaaa aaccctcgtt ctttgttctg
+cgttagtcgc aaggaaaaac tctttgaata ccctaatgtg ttgtcttatg atgacgcttc
+gacc
+>Anthemis_tomentosaFM957759
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgagtgaat
+tgaggwwtgt ttgatwmmat tcgaaggttc ggtgaaggyg cattyacttt tgttcttttg
+gacagggtga atgtgtcrtt ggcgacataa caaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgckca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccwacaa atcatcgttg ggggcggata ttggtctccc gygctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+tttgttctgt gttggtcgca agaaaaactc tttgaatacc ccaatgtgtt gtcttatgay
+gacgcttcga cc
+>Anthemis_tricolorFM957760
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtgaat
+taaggtttgt ttgattgcac tcgatgctct gtccgatgtg catttacttt tgttcttttg
+gacatggtga atgcgtcatt ggcgcaatam ccaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttrta annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttmtgt gctagtcgca aggaaaagct ctttcaatac cccaatgtgt cgtcttatga
+cgacgcttcg acc
+>Anthemis_tricornisFM957761
+tcgaaccctg caaagcagaa cgacccgyga acatgtaaaa caaccgagcg tygagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttgcttttg ttcttttgga
+cacggtgaat gtgtcattgg cgcaataaca aaccccggca caatgtgtgc maggaaaact
+aaacttaaga aggcttgttt tatgttgccc cgttcgcggt gtgctmtgag acgtggcttc
+ttnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnatc gcgtcgcccc
+caacaactca ttgttggggg cggatattgg tctcccgtgc tcatggtgtg gttggccaaa
+ataggagtcc cttcgatgga cgcacgaaca agtggtggtc gtaaaaaccc tcgttctttg
+ttctgtgtta gtcgcaagga gaaactcttt aataacccaa tgtgttgtct tttgatgacg
+cttcgacc
+>Archanthemis_trotzkianaFM957684
+cagaacgacc cgtgaacatg taaaaacaac cgagcgtcga gtggagtaag cacttgttta
+ttcctcttga tgctttgtcg atgtgcattt acttttgttc ttttggacat ggtgaatgtg
+tcattggcgc aataacaacc cccggcacaa tgtgtgccaa ggaaaacaaa actttagaag
+gcttgtttca tgttgccccg ttcgcggtgt gctcatggga tgtggcttct ttttaannnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnatcg cgtcgccccc aacaaatttc
+tgttgggggc ggatattggt ctcccgtgct catggtgtgg ttggccaaaa taggagtccc
+ttcgatggac gcacgaacta gtggtggtcg taaaaaccct cgttctttgt tctgtgttag
+tcgcaaggaa aaactcttca aacaccccaa tgtgttgtct taggatgacg cttcgacc
+>Anthemis_tubicinaFM957762
+tcgaaccctg caaagcagaa cgacccgtga acgcgtaaaa caaccgagcg tcgagtggaa
+tgagcacttg tttgatcccc tcgatgctct gtcgatgtgc atttacttgt gttcttttgg
+acatggtgaa tgtgtcattg gcgcaataac aaaccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttat tttttgttgc cccgttcgcg gtgtgctcat gagatgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ctttgttgtg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt tccttcgatt gacgcacgaa ctagtggtgg aagtaaaaac cctcgttctt
+tgttctgtgt tagtcgaaag gaaaaactct ctgaataccc caatgtgttg tcttcggatg
+atgcttcgac c
+>Anthemis_ubensisFM957685
+tcgaaccctg caaagcagaa cgacccrcga acacgtaaaa caacagagca tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gtttcatagg cggcaataac caaccccggc acaatgcgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tttgtgtcgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa ttactgttgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataggag tcccttcgat ggacgcacga actagtggtg gatctaaaaa ccctcgttct
+ttgtttcgtg ttagtcgcaa ggataaactc tttgaatacc ccaatgtgtt gtcttctgat
+gacgcttcaa cc
+>Anthemis_werneri_subsp._werneriFM957686
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa acaactgagc gtcgagtgaa
+ttaaggaatg tttgattaca ctcgatgctc tgtcgatgtg cattcacttt tgttcttttg
+gacatggtga atgtgtcgtt ggcgcaataa caaaccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttt gccccgttcg cggtgtgctc atgagacgtg
+gcttctttat aannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatcgcgtc
+gccccataca aatcattgtt tggggcggat actggtctcc tgtgctcatg gtgtggttgg
+ccaaaataag agtcccttcg atggacgcac gaactagtgg tggatgtaaa aaccctcgtt
+ctttgttctg tgttagtcgc aaggaaaaac tctttgaata ccccaatgtg ttgtcttttg
+acgacgcttc gacc
+>Anthemis_wettsteinianaFM957763
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaat caacggagcg tcgagtggat
+taagcacttg tttgatcccc ttgatgcttt gccgatgcgc atttacttgt tcttttggac
+atagtgaatg tgtcattggc gccttaacaa accccggcac aatgtgtgcc aaggaaaact
+aaacttgaga aggcttgttt tatgttgccc cgttcgcggt gtgctcatga gatgtggctt
+ctttataann nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnat cgcgtcaccc
+ccaacaaatc tttgttgggg gyggataatg gtctcccgtg ctcatggcgt ggttggccaa
+aataggagtc ccttcgatgg acgcacgaac aagtggtgga agtaaaaacc ctcgttcttt
+gttctgtgtt agtcgcaagg aaaaactctt cgaatacccc aatgtgttgt ctttatgatg
+acgcttcgac c
+>Anthemis_yemensisFM957766
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caaccgagcg tcgattgaat
+taaggtttgt ttgatacact cgatgctctg tcgatgtgca tttgcttttg ttcttttgga
+catggtgaat gtgtcattcg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcccc
+ccacaaatca ttgttggggg cggatattgg tctcccgtgc tcatggtgtg gttggccaaa
+ataggagtcc cttcgatgga cgcacgaact agtggtggat gtaaaaaccc tcgttctttg
+ttctgtgtta gtcgcaagga ataactcttt gaataccccc aatgtgttgt cttttgatga
+cgcttcgacc
+>Anthemis_yemensisFM957712
+aaccctgcaa agcakaacga cccgcgaaca cgtaaaacaa ccgagcgthg attgaattaa
+ggttwgttyg atacactcga tgcwctgtcg atgtgcattk gcttttgttc ttttggacat
+ggtgaatgtg tcattcgcgc mataacmacc cccggcacaa tgtgtgccaa ggaaaactaa
+acttaagaag gcttgtttta tgtkgccccg ttcgcggtgt gctcatgaga cgtggcttct
+ttataannnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnatcg cgtcgccccc
+aacaaatcat tgttgggggc ggatattggt ctcccgtgct catggtgtgg ttggccaaaa
+taggagtccc ttcgatggac gcacgaacta gtggtggatg taaaaaccct cgttctttgt
+tctgtgttag tcgcaaggaa taactctttg aataccccca atgtgttgtc ttttgatgac
+gcttcgacc
+>Anthemis_zaianicaAJ312784
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa caacagagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgcttcg tcgatgtgca tttacttttg ttctttttga
+catggtgaat gttacatagg cggcataaca aaccccggca caatgccgtg ccaaggaaaa
+ctaaacataa gaaggcttgt tcttgtgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata atta
+>Anthemis_zaianicaAJ312813
+atcgcgtcgc ccccaacaaa atattgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacgcacga actagtggtg gacttaaaaa
+ccctcgttct ttgttctgtg tcattcgcaa ggaaaaactc tttgaatacc ccaatgtgtt
+gtcttttgat gacgcttcga cc
+>Anthemis_zoharyanaFM957714
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaycgagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttacttatg ttcttttgga
+cttgggtgaa tgtatcattg gcgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt tttgtgttgc cccgttcgcg gtgtgctcat gagacgcggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atcgcgtcgc
+ccccaacaaa tctttgtcgg gggcggatat tggtctcccg tgctcatggt gtggttggcc
+aaaataagag ttccttcgat ggacgcacga actagtggtg gatttaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc tytgaatacc ccaacgtgtt gtcttttgat
+gacgcttcga cc
+>Cota_altissimaFM957660
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa acaacygagc atcgagtggg
+ttaagcgctt gtttgatcct ctcgatgctt tgccgatgtg cattttcttg tgttcttttg
+gacatgatga atgcgtcgtt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctatgttg ggggcggata ttggtctccc gtgctcrtgg tgtggttggc
+caaaatagga gtcmcttcka tggacacacg aactagtggt ggacgtaaaa accctcgatc
+tttgttctgt gttagtcgca aggaaaaact cttcgaatac cccaacgtgt tgtmttcgga
+tgacgcttcg acc
+>Cota_amblyolepisFM957781
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa acgaccgagc gtcgagtggg
+tcaagcgttg tttgatcctc tcgatgcttt gtcgatgtgc cttkacttgt gttctttggg
+acgcsgtgaa tgtgtcgtcg gcgccataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gatggcttgt tttatgttgc cccgttcgcg gtgtgctcat gagacgtggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnngc
+ccccaacaaa ttattgtagg gggcggatat tkgtctcccg tgctcatggc gtggttggcc
+gaaataggag tcccttcgat ggacgcacaa actagtggtg gtcgtaaaaa ccctcgttct
+ttgttttgtg ccgacatttg caaggaaaca ctcttttctt tacctaatgc gttgtcttag
+gacgatgctt cgacc
+>Cota_austriacaFM957663
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+tcaagcactt gtttgatccw ctcrktgctt tgtcgatgcg catttacttg tgttcttttg
+aacttggtga atgtgtcgtt gacgaaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttr tcttatgatg ccccgttcgc ggtgtgctca tgggaygtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccctaacaa atmtytgttg ggggcggata ttggtctccc gtgcccatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+ttagttctgt gttagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Cota_brevicuspisFM957719
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtggg
+ttaagcactt gtttgatcct ctcgatgctc tgtcgatgtg catttgcttg tgttcttttg
+gacacggtga atgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgttcgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaaw ctttgttggg ggcggatatt ggtctcccgt gctcacggtg tggttggcca
+aaatakgagt cccttcgacg gacacacgaa ctagtggtgg aagtaaaaaa ccctcgttct
+ttgttctgtg ttggtcgkaa ggaaaaactc ttyaaataac ccwatgtgtt gtctwyggat
+sacgcwtcga cc
+>Cota_caelopodaFM957722
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+tcaagcactt gtttgatcct ctcggtgctt tgycgatgcg catttacttg tgttcttttg
+aacttggtga atgtgtcgtt gacgaaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggatgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccctaacaa atctttgttg ggggcggata ttggtctccc gtgcccatgg tgtggttggc
+caaaatagga gttccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Cota_dalmaticaFM957724
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct cttgatgctt tgtcgatgtg catttacttg tgtttttttg
+gacacggtga atgtgtcatt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgcgca tgggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctatgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttmtgt gttagtcgca agaaaaactc tttgaatacc ctaatgtgtt gtctttggat
+ggcgcttcga cc
+>Cota_dipsaceaFM957727
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaactgagc gtcgagtgga
+tcaagcactt gtttgatcct ctygatgctt tgtcgatgcg catttactcg tgttcttttg
+gacayggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actraactta agaaggcttg tcttatgatg ccccgttcgy ggtgtgctca tgggrcgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgcccacgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttb
+kkksttctgt gttagtcgca agggaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Cota_dubiaFM957771
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtggat
+taagcactkg tttratcctt tgakgcttkg tcgatgggca tttacttgtg ttcttttgaa
+cwkggtgaat gtgtcgttgr cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacataag aaggcttgtt ttatgatgcc ccgttcgcgg tgtgctcatg ggacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctctgttggg ggcggatatt ggtctcccgt gcycatggtg tggttggcca
+aaataggagt cccttcgatg gacgcacgaa ctartggtgg atgtaaaaac cctcgttctt
+tgttctgtgt tagtcgcaag gaaaaactct tcaaataccc caatgtgttg tcttcggatg
+acgcttcgac c
+>Cota_triumfettiiFM957672
+tcgaaccctg caaagcagaa cgacctgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacacggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca taggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctctgttg ggggcggata ttggtctccc gtgcctatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactagtggt ggatgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacacttcg acc
+>Cota_fulvidaFM957731
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtyygatcct cttgatgctt tgtcgatgcg catttasttg tgttcttttg
+gacatggtga atgtgtcgtt gacgcaataa caacccccgg cmcaatgtgt gccaaggaaa
+actaaactya agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggacgtgg
+ctyctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccctaacaa atctttgttg ggagcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaataaga gtcccttcga tggacgcacg aactagtgtt ggtcgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Anthemis_halophilaFM957734
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caacygagcg tcgagtgaat
+taaggtttgt ttgatacact cgatgctttg tcgatgtgca tttacttgtg ttctttcgga
+cttggtgaat gtgtcattgg cgcaataaca acccccggca caatgtgtgc caaggaaaac
+taaacttaag aaggcttgtt ttatgttgcc ccgtttgcgg tgtgctcatg agacgtggct
+tctttataan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tcgcgtcgcc
+cccaacaaat ctttgtaggg ggcggatatt ggtctcccgt gctcatggtg tggttggcca
+aaataggagt cccttcgatg racacacgaa ctagtggtgg atgtaaaaac cctcgttctt
+tgttctgtgt tagtcgyaag gaaaaactct ttgaataccc aaatgtgttg tcttttgatg
+acccttcgac c
+>Cota_macranthaFM957740
+tcgaaccctg caaagcagaa cgacccgtga acacgtrawa acamccgagc gtsgagtgga
+tkarscactt gtttgatcca tcgacgatgc tttgtcgatg cgcatttact tgtgttcttt
+wggacacggw gaatrtgtsg kdramkcrat aacawmcccc ggmwcmatgt gtgccargga
+amaytwmact taasarggca wgtcttatka tgccccgttc gcggtgtgct yataagacgt
+ggcttcttta taannnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnatcgcgt
+cgcccccaac aaatctcagt tgggggcgga tattggtctc ccgtgcccat ggtgtggttg
+gccaaaatag gagttccttt gatggacgca cgaactggtg gtggatgtaa aaaccctcgt
+tctttgttct gtgttagtcg caaggaaaaa ctcttcaaat accccaatgt gttgtcttcg
+gatgacgctt cgacc
+>Cota_melanoloma_subsp._melanolomaFM957743
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacatggtga atgtgtcatt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctttgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaataaga gtcccttcga tggacgcacg aactagtggt ggwcgtaaaa accctcgttc
+tttgttctgt gttagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Cota_monanthaFM957748
+tcgaacmctg cwaagcaraa cgacccgtga acacgtaaaa acaaccgagc gtckagtgga
+ttaagcwctt gtttgatcct cgcgatgctk ygtcgatgcg cattwacttg tgtkcttttg
+gacacggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgtycgc ggtgtgctca taggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctctgttg ggggcggata ttggtctccc gtgcccatgg tgtggttggc
+caaaatagga gttcctttga tggacgcacg aactggtggt ggatgtaaaa accctcgttc
+tttgttctgt gwtagtcgca aggaaaaact cttcaaatac cccaatgtgt tgtcttcgga
+tgacgcttcg acc
+>Cota_oxylepisFM957782
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+aacttggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natmgagtcg
+cccccaacaa atctctgttg ggggcggata ttggtctccc gtgcccatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aactggtggt ggatgtaaaa aaccctcgtt
+ctttgttctg tgttagtcgt aaggaaaaac tcttcaaata ccccaatgtg ttgtcttcgg
+atgacgcttc gacc
+>Cota_palaestinaFM957657
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa acaaccgagc atcgagtggg
+ttaagcgctt gtttgatcct ctcgatgctt tgccgatgcg catttacttg tgttcttttg
+gacatgatga atgcgtcgtt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactca agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctatgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacacacg aactagtggt ggacgtaaaa accctcgatc
+tttgttctgt gttagtcgca aggaaaagct cttcgaatac cccaacgtgt tgtcttcgga
+tgacgcttcg acc
+>Anthemis_palestinaAJ312804
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa acaaccgagc atcgagtggg
+ttaagcgctt gtttgatcct ctcgatgctt tgccgatgcg catttacttg tgttcttttg
+gacatgatga atgcgtcgtt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactca agaaggcttg ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata atta
+>Anthemis_palestinaAJ312833
+atcgcgtcgc ccccaacaaa tctatgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataggag tcccttcgat ggacacacga actagtggtg gacgtaaaaa
+ccctcgatct ttgttctgtg ttagtcgcaa ggaaaagctc ttcgaatacc ccaacgtgtt
+gtcttcggat gacgcttcga cc
+>Cota_pestalozzaeFM957751
+gtgtcgagtg gattaagcac ttgtttgatc ckctcgatgc cttgtcgatg tgcatttact
+tgtgttcttt tggacatggt gaatgtgtca ttgacgcaat aacaaccccc ggcacaatgt
+gtgccaagga aaacaaaact taagaaggct tgttttatgt tgccccgttc gcggtgtgct
+catgggacgt ggmttcttta taannnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnatcgcgt cgcccccaac aaatctctgt tgggggcgga tattggtctc ccgtgctcat
+agtgtggttg gccaaaatag gagtcccttt gatggatgca cgaacaagtg gtggtcgtca
+aaaccctcgt tctttgttct gtgttagtcg taaggaaaaa ctcttcaaat accccaatgt
+gttatcttcg gatgatgctc cgacgcgacc
+>Cota_triumfettiiAJ312801
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacatggtga atgtgtcgtt gacgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgttcgc ggtgtgctca tgggatgtgg
+cttctttata atta
+>Cota_triumfettiiAJ312830
+atcgcgtcgc ccccaacaaa tctttgttgg gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataagag tcccttcgat ggacgcacga actagtggtg gtcgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc ttcaaatacc ccaatgtgtt
+gtcttcggat gacgcttcga cc
+>Cota_segetalisFM957680
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct cttgatgctt tgtcgatgtg catttacttg tgttcttttg
+gacayggtga atgtgtcatt gacgcamtaa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg ttttatgttg ccccgttcgc ggtgtgcgca tgggatgtgg
+cttctttata annnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn natcgcgtcg
+cccccaacaa atctatgttg ggggcggata ttggtctccc gtgctcatgg tgtggttggc
+caaaatagga gtcccttcga tggacgcacg aacaagtggt ggtcgtaaaa accctcgttc
+tttgttctgt gttagtcgta agaaaaacct ctttgaatac cccaatgtgt tgtctttgga
+tggcgcttcg acc
+>Cota_tinctoriaAJ312802
+tcgaaccytg caargcagaa sraccsgtga acakgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcca atcgatgctt tgtcgatgcg catttactgt gttcttttgg
+acatggtgaa tgtgtcgttg acgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt cttatgatgc cccgttcgcg gtgtgctcat gggatgtggc
+ttctttataa tta
+>Cota_tinctoriaAJ312831
+atcgcgtcgc ccccaacaaa tctttgttag gggcggatat tggtctcccg tgctcatggt
+gtggttggcc aaaataagag tcccttcgat ggacgcacga actagtggtg gacgtaaaaa
+ccctcgttct ttgttctgtg ttagtcgcaa ggaaaaactc ttcaaatacc ccaatgtgtt
+gtcttcggat gacgcttcga cc
+>Cota_tinctoria_subsp._subtinctoriaFM957758
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg tcgagtggat
+taagcacttg tttgatcctc tcgatgcttt gtcgatgcgc atttacttgt gttcttttgg
+acatggtgaa tgtgtcgttg acgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttaa gaaggcttgt cttatgatgc cccgttcgcg gtgtgctcat gggatstggc
+ttctttataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn atckcgkcmc
+ccccaacaaa tctctgttgg gggcggatat tggtctcccg tgcccatggt gtggttggcc
+aaaataagag tcccttcgat ggacgcacga actagtggtg gatgtaaaaa ccctcgttct
+ttgttctgtg ttagtcgcaa ggaaaaactc ttcaaatacc ccaatgtgtt gtcttcggat
+gacgcttcga cc
+>Cota_triumfettiiAJ312803
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcca atcgatgctt tgtcgatgcg catttacttg tgttcttttg
+gacatggtga atgtgtcgtt gacgccataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggcttg tcttatgatg ccccgtttgc ggtgtgctca taggatgtgg
+cttctttata acta
+>Cota_triumfettiiAJ312832
+atcgcgtcgc ccccaacaaa tctttgttgg gggcgggata ttggtctccc gtgctcatgg
+tgtggttggc caaaataaga gtcccttaga tggacgcacg aactagtggt ggtcgtaaaa
+accctcgttc tttgttctgt gttagtcgca aggaaaaact cttcaaatac ccaaatgtgt
+tgtcttcgga tgacgcttcg acc
+>Cota_wiedemannianaFM957687
+tcgaaccctg caaagcagaa cgacccgtga acaygtaaaa acaaccaagc gtcgagtgga
+tyaagcactt gcttgatcct ctcgatgctt ttgtcgatmc gcatttactc gtgttctttt
+ggacatggtg aatgtgtcgt tgacgcaata acaacccccg gcacaatgtg tgccaaggaa
+aactaaactt aagaaggctt gtcttatgat gccccgttcg cggtgtgctc atgggacgtg
+gcttctttat aannnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnatcgcgtc
+acccccaaca aatctttgtt gggggyggat attggtctcc cgtgctcacg gtgtggttgg
+ccaaaatagg agtcccttcg atggacgcac gaactagtgg tggatgtaaa aaccctcgtt
+ctttgttctg tgttagtcgt aaggaaaaac tcttcaaata ccccaatgtg ttgtcttcgg
+atgacgcttc gacc
+>Eumorphia_sericeaAM774451
+taacaaggtt tccgtaggtg aacctgcgga aggatcattg tcgaaccctg caaagcagaa
+cgacccgtga acatgtaaaa acaacgagtg ttggttggat tcggnaaatt gcttgatcct
+ctcaatgctt tgtcgatgtg catttacttg tgttctatag gacctagtga atgtgtcatt
+ggcacaataa caacccccgg cacaatgtgt gccaaggaat acaaaactta agaaggcttg
+tttcatgttg ccccgttcgc ggtgtgctca tgggatgtgg cttctttata atcacaaacg
+actctcggca acggatatct cggctcacgc atcgatgaag aacgtagcaa aatgcgatac
+ttggtgtgaa ttgcagaatc ccgtgaacca tcgagttttt gaacgcaagt tgcgcccgaa
+gccttttggc cgagggcacg tctgcctggg cgtcacgcat cgcgtcgccc ccaactctat
+tctttaaaga gaatatgatg tttgggggcg gatattggtc tcccgtgctc atggtgtggt
+tggccaaaat aggagtcccc ttcgatggac gcacaactag tggtggtcgt caaaaccctc
+gtcttttgtt gtgtgtcgtt tgtcgcaagg aagagctctt caagtacccc aatgtgttgt
+cttttgataa cgcttcgacc gcgaccccag gtcaggcggg actacccgct gagtttaagc
+atatcaataa gcggaggaaa agaaacttac aaggattcc
+>Gonospermum_canarienseAF155243
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagc gtcgagttga
+ttaagcactt gtttgatcct cttgatgctt tgtcgatgtg cattttactt gtgttctttt
+ggacatggtg aatgtgtcat tggcgcaata acaacccccg gcacaatgtg tgccaaggaa
+aactaaactt aagaaggctt gtttcatgtt gccccgttcg cggtgtgctc atgggacgtg
+gcttctttat aa
+>Heliocauta_atlanticaAJ748782
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccagcg tcgagtgcgt
+taagcacttg tttgatcctc tcgatgcttt gtcgatgcgc atttacttgt gttcttttgg
+accttgtgaa tgtgtcattg acgcaataac aacccccggc acaatgtgtg ccaaggaaaa
+ctaaacttga gaaggcttgt ttcatgttgc cccgttcgcg gtgtgctcat gggatgtggc
+ttctttataa tta
+>Hippolytia_dolichophyllaAJ748784
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagt gtcgattgga
+ttaagcgctt gtttgatcct ctcgacgctt tgtcgatgtg catttactcg agttcttttg
+gaccttgtga atgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactca agaaggctcg tttcatgttg ccccgttcgc ggtgtgctca tgggatgtgg
+cttctttata atca
+>Leucocyclus_formosusAJ864578
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa caaccgagcg ttgtgtggat
+taagcactcg tttgatcctc tcgatgcttt gtcgatgtrc atttacttgt gttcttttat
+ggacctcgtc aatgtgtcat tgacgcaata acaacccccg gcacaatgtg tgccaaggaa
+aactaaactt gagaaggctt gtttcatgtt gccccgttcg cggtgtgctc atgaaatgtg
+gcttcttttt aatta
+>Lugoa_revolutaAF155252
+tcgaaccctg caaagcagaa tgacccgtga acacgtaaaa acaactgagc atcgagttga
+ttaagcactt gtttgatcct cttgatgctt tgtcgatgtg catttacttg tgttcttttg
+gacttggtga atgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaatgcttg tttcatgttg tcccgtttgc ggtgtgctca tgggacgtgg
+cttctttata a
+>Nananthea_perpusillaAJ864579
+tcgaaccctg caaagcagaa cgacccgtga acatgtaaaa ccaacgagcg tcgagtgtat
+taaggaatgt ttgatacact cgatgctttg tcgatgtgcg tctacttttg ttcttttgga
+catggtgaat gcatcattga cgcactaaca acccccggca caatgtgtgc caaggaaaac
+taaacttgag aaggtttgtt ctatgttgcc ccgttcgcgg tgtgctcatg gaatgtgact
+tctttataa
+>Pentzia_dentataAY127681
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaaccgagt gtcgattgga
+ttaagcacta gtgtttgatc ctctcggtgc tttgtcgatg cgcatccgct cgtgtccttt
+tggaccttgt ggatgcgtcg ttggcgcatt aacaaccccc ggcacaatgt gtgccaagga
+aaactaaact taagaaggct cgtttcatgt tgccccgttc gcggtgtgct cgtgggatgg
+gcttctttat
+>Prolongoa_hispanicaL77776
+tcaaaccctg caaagcagaa cgacccgcga acacgtaaaa caaacgagcg tcgagtggga
+ttaagatccg cttgacgctt tgtcgatgtg cattcggttg agttcttttg gaccatttga
+gtgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa actaaacttg
+agaatgctcg ttgcatgatg gcccgttcgc ggtgtcctca tgtgacgtgg cttcttatta
+aatcgcgtcg ccccccgcaa aactttgttg ggggcggata ttggtctccc gtgtcactgg
+tgcggttgtc caaaatatgt tttccttcga tggacgcaca aactagtggt ggtcgtaaaa
+accctcgttc tttgtttgtg tttggtatcg caagggactc ttaaacccta atgtgttgtc
+tttggatgac gcttcgaccg
+>Soliva_sessilisAM774471
+gatcattgtc gaaccctgca aagcagaacg acccgcgaac atgtaacaac aacttgtgtt
+gggtgtatcg agcatttgct cgagccacct gatgcttttg ccgatgtgcg ttctttgtgc
+cattttggca cttgcggacg ttgcagcggc acaataacaa accccggcac ggaacgtgcc
+aaggaaaact aaacttaaga agggctcttt ccatgtggcc tcgttcgcgg tgtgctcatg
+ggatgtggct tctttgtaat tacaaacgac tctcggcaac ggatatctcg gctcacgcat
+cgatgaagaa cgtagcaaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc
+gagtttttga acgcaagttg cgcccgaagc cttttggtcg agggcacgtc tgcctgggcg
+tcacgcatcg cgtcgccccc gcctccatcc ctgycaaggt atgtgattcg ggggcggaga
+ttggactccc gtgctcatgg tgcggttgtc caaaatagga gtccccttcg atggacgcac
+gattagtggt ggtcgtaaaa accctcgtct tgtgtcgtgc gttgtaagtc gcgagggaac
+gactcttcaa gaaaccccaa cgtgttgtct tatgacgacg cttcgaccgc gaccccaggt
+caggcggga
+>Tanacetum_vulgareAF155263
+tcgaaccctg caaagcagaa cgacccgcga acacgtaaaa acaaccgagc gtcgagtgga
+ttaagcactt gtttgatcct ctcgatgctt tgtcgatgtg catttacttg tgttcttttg
+gacatggtga atgtgtcatt ggcgcaataa caacccccgg cacaatgtgt gccaaggaaa
+actaaactta agaaggctag ttttatgttg ccccgttcgc ggtgtgctca tgagacgtgg
+cttctttata a
+>Tripleurospermum_caucasicumAJ864590
+tcgaaccctg caaagcagaa cgacccgtga acacgtaaaa acaactgagc gtcgagagtg
+gaccaaggaa tttttgaata cactcgatgc tttgtcgatg tgcatttacc tttgttcttt
+tggacttggt gaatgtgtca tcggcgcaat aacaaccccc ggcacaatgt gtgccaagga
+aaactaaact taagaaggct tgttttatgt tgccccgttt gcggtgtgct catggaatgt
+ggcttcttta taatta
+>Ursinia_anthemoidesAM774473
+ggtttccgta ggtgaacctg cggaaggatc attgtcgaac cctgcaaagc agaacgaccc
+gtgaacatgt aacaacaact gagcgtcggg tttattgggc acatgcctgg tcttcccggt
+gcttagccga tgcgcgcctg tctcgtgtct ttcgggacgc tgtggacgtg tcattggcat
+aataacaaac cccggcacaa tgtgtgccaa ggaaatctaa acttaagaag gcccgtctca
+tgttgccccc gttcgcggtg tgctcgtggg atgtggcgtc tttgtaacca caaacgactc
+tcggcaacgg atatctcggc tcacgcatcg atgaagaacg tagcaaaatg cgatacttgg
+tgtgaattgc agaatcccgt gaaccatcga gtttttgaac gcaagttgcg cccgaagcct
+tttggccgag ggcacgtctg cctgggcgtc acgcatcgcg tcgccccccg aatccgctcc
+ttttaaagga tgcgatgtct gggggcggat attggtctcc cgtgcttacg gcgtggttgg
+ccaaaatagg agtccccttc gatggacgca cgactagtgg tggtcgtaaa aaccctcgtc
+ttttgtcgtg cgttgttagt cgcaagggaa cagctcttca agtaccccaa tgcgtcgtct
+attggcgacg cttcgaccgc gaccccaggt caggcgggac tacccgctga gtttaagcat
+atcaataagc ggaggaaaag aaacttacaa ggattccctt agtaacggcg agcga
